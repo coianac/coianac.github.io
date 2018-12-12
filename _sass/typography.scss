@@ -60,9 +60,6 @@ p, ul, ol {
 	line-height: 1.8em;
 	margin-bottom: 1.5em; /* 24px/16px */
 }
-p-last {
-	margin-bottom: 50px;
-	}
 
 
 h1 {
@@ -73,7 +70,7 @@ h1 {
 	letter-spacing: 0.06em; /* 0.84px */
 	line-height: 65px;
 	padding: 0 0 0 0; /* 60px (Use padding instead of margin to maintain proximity with paragraph) */
-	margin: 0 0 50px 0; 
+	margin: 120px 0 50px 0; 
 }
 
 h2 {
@@ -227,7 +224,7 @@ h1 {
 	letter-spacing: 0.06em; /* 0.84px */
 	line-height: 84px;
 	padding: 0 0 0 0; /* 60px (Use padding instead of margin to maintain proximity with paragraph) */
-	margin: 0 0 50px 0; 
+	margin: 120px 0 50px 0; 
 }
 
 h2 {
@@ -331,4 +328,44 @@ main-title {
 	padding: 0 0 0 0;
 	color: #485744;
 	}
+
+.navbar {
+  overflow: hidden;
+  background-color: rgba(255, 255, 255, 0.98);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  margin: 0 0 70px 0;
+  padding: 0;
+  border-bottom: 1px solid #CED4CE;
+}
+
+.navbar a {
+  display: block;
+  color: #262D24;
+  font-family: "raleway", sans-serif;
+  font-size: 14px;
+  text-align: center;
+  width: 33.33%;
+  padding: 9px 0 11px 0;
+  text-decoration: none;
+  float: left;
+}
+
+.navbar a:hover {
+  background-color: rgba(206, 212, 206, 0.5);
+}
+
+.navbar a:active {
+  font-weight: 700;
+  background-color: #CED4CE;
+}
+
+.navactive {
+  font-weight: 700;
+  background-color: #CED4CE;
+}
+
+.w170 {width: 170px;}
+
 }
