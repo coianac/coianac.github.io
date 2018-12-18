@@ -69,7 +69,7 @@ nav: about
     <h3>education</h3>
     <label-1>Philadelphia, PA</label-1>
     <br><label-3><b>Masters in Design, Service Design</b> University of the Arts</label-3>
-    <label-1>Boston, MA</label-1>
+    <br><label-1>Boston, MA</label-1>
     <br><label-3><b>Bachelor of Science, Marketing, Entrepreneurship</b> Northeastern University</label-3>
   </div>
   <div class="w3-col w3-container m1">
