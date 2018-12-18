@@ -35,7 +35,7 @@ nav: case-studies
 	<div class="w3-col w3-container m1"></div>
 	<div class="w3-col w3-container m6">
 		<h3>Overview</h3>
-		<p>In 2017, we enabled image pinning to the top of the UGC gallery.. The top two rows of content can now be sold as ad placements. This is an example of our <b>launch campaign with Calvin Klein.</b></p>
+		<p>In 2017, we enabled image pinning to the top of the UGC gallery. The top two rows of content can now be sold as ad placements. This is an example of our <b>launch campaign with Calvin Klein.</b></p>
 		<p>Shoppers who visit the UO Community gallery view two times more products during their session than non-browsers, and convert almost a full percentage point higher than those who do not.</p><br>
 	</div>
 	<div class="w3-col w3-container m1">
